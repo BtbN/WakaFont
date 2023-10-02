@@ -1,18 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="200.000000pt" height="200.000000pt" viewBox="0 0 200.000000 200.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.10, written by Peter Selinger 2001-2011
-</metadata>
-<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M105 1070 c0 -498 -3 -940 -7 -982 l-8 -78 160 0 160 0 0 65 0 65
-608 -2 607 -3 3 -62 3 -63 152 0 152 0 0 492 0 493 -762 -3 -763 -3 0 101 0
-101 703 -3 702 -3 0 395 0 395 -855 0 -855 0 0 -905z m1403 508 l3 -118 -551
-0 -550 0 0 113 c0 63 3 117 7 120 3 4 250 6 547 5 l541 -3 3 -117z m122 -1013
-l0 -145 -610 0 -610 0 0 145 0 145 610 0 610 0 0 -145z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><defs><clipPath id="a"><path d="M159.5 559.5h680v642h-680z" class="a"/></clipPath><clipPath id="b"><path d="M159.5 379.5h1014v822h-1014z" class="a"/></clipPath><style>.a,.c{fill:none}.c{stroke:var(--color-text, #000);stroke-linecap:square;stroke-miterlimit:2;stroke-width:68px}</style></defs><path d="M840 880H160" class="c" style="clip-path:url(#a)"/><path d="M160 560h680v380" class="c" style="clip-path:url(#b)"/><path d="M160 380h640V100H160v840" class="c"/></svg>
